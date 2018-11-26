@@ -1,11 +1,15 @@
 # Spark-Docker-Assighnment
 
-1- Download  Spark-Docker-Assighnment folder to c:
+Spark:
+      file AirBnB_EDA.ipynb: Includes data exploration from the DataCup assignment written in Spark      
 
-2- Go to c:\ Spark-Docker-Assighnment
+Docker:
+      1- Download  Spark-Docker-Assighnment folder to c:
 
-3- Run: 
+      2- Go to c:\ Spark-Docker-Assighnment
 
-      docker build -t airbnb .
-      
-4- a screen shot of the output is in: result screenshot.JPG
+      3- Run: 
+
+            docker build -t airbnb .
+
+      4- a screen shot of the output is in: result screenshot.JPG
