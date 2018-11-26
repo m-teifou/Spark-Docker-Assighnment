@@ -7,3 +7,5 @@
 3- Run: 
 
       docker build -t airbnb .
+      
+4- a screen shot of the output is in: result screenshot.JPG
