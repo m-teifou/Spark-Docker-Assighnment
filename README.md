@@ -10,10 +10,12 @@ Docker:
    
    2- Go to c:\ Spark-Docker-Assighnment
    
-   3- to run the app directly execute below steps:
-      
+   3- build the docker application
+    
          docker build -t airbnb_app .
-            
+   
+   4- to run the app directly execute below steps:
+               
          docker run -it -p 8888:8888p 80:80 -p 5000:5000 airbnb_app 
 
       - open the following link:  http://0.0.0.0:5000/ 
