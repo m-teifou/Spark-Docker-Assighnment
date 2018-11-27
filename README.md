@@ -16,7 +16,7 @@ Docker:
    
    4- to run the app directly execute below steps:
                
-         docker run -it -p 8888:8888p 80:80 -p 5000:5000 airbnb_app 
+         docker run -it -p 8888:8888 -p 80:80 -p 5000:5000 airbnb_app 
 
       - open the following link:  http://0.0.0.0:5000/ 
        
